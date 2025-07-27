@@ -6,6 +6,8 @@ The objective is to find the best-fit distribution for the dataset and validate 
 
 ![Python](https://img.shields.io/badge/Py_Libraries-numpy,_matplotlib.pyplot,_pandas,_scipy.stats,_fitter,_seaborn-beige.svg)
 
+---
+
 [Analysis](https://github.com/DiAg-2025/Python--Best-Fit-Distribution--Human-Body-Temperature/blob/main/Analysis.ipynb)
 
 Using the fitter, it is found that the gamma distribution fits the data most accurately.
