@@ -4,4 +4,4 @@
 
 [Analysis](https://github.com/DiAg-2025/Python--Best-Fit-Distribution--Human-Body-Temperature/blob/main/Analysis.ipynb)
 
-''' Python Libraries: numpy, pandas, matplotlib.pyplot, seaborn, scipy.stats, fitter '''
+**Python Libraries: numpy, pandas, matplotlib.pyplot, seaborn, scipy.stats, fitter**
