@@ -5,3 +5,5 @@
 **Python Libraries: numpy, pandas, matplotlib.pyplot, seaborn, scipy.stats, fitter**
 
 [Analysis](https://github.com/DiAg-2025/Python--Best-Fit-Distribution--Human-Body-Temperature/blob/main/Analysis.ipynb)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
